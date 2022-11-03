@@ -1,7 +1,7 @@
 
-## Sobre esse projeto 🔍
-<p>Link para a aplicação: </p>
-
+## Rede Social 💻
+<p align="center"><a href="https://a-rede-social.vercel.app/">⭐ Clique aqui</a> para ver o projeto. ⭐</p>
+<br>
 
 <p>CRUD construido em ReactJS usando o Firebase como banco de dados para facilitar a autenticação e armazenamento de dados, além do auxílio de ferramentas como o Context API para uma melhor administração do estado e propriedades, Styled-Components para uma estilização mais prática usando JavaScript, Axios para requisições HTTP e React-Router para criação de rotas.</p>
 <br>
